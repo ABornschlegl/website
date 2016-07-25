@@ -1,0 +1,40 @@
+@import 'stylesheet.css';
+@import 'seite1.css';
+
+.collagen{
+  width: 70%;
+  display: block;
+  background: white;
+  float: left;
+  margin-top: 15px;
+}
+
+.collagen div{
+  display: block;
+  padding: 5%;
+}
+
+.self1{
+  width: 50%;
+  float: left;
+}
+
+.self2{
+  width: 50%;
+  float: left;
+}
+
+.self3{
+  width: 50%;
+  float: left;
+}
+
+.self4{
+  width: 50%;
+  float: left;
+}
+
+.self5{
+  width: 50%;
+  float: left;
+}

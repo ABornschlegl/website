@@ -1,0 +1,50 @@
+@import 'stylesheet.css';
+@import 'seite1.css';
+
+.portraits{
+  width: 70%;
+  display: block;
+  background: white;
+  float: left;
+  margin-top: 15px;
+}
+
+.portraits div{
+  display: block;
+  padding: 5%;
+}
+
+.portrait1{
+  width: 50%;
+  float: left;
+}
+
+.portrait2{
+  width: 50%;
+  float: left;
+}
+
+.portrait3{
+  width: 100%;
+  float: left;
+}
+
+.portrait4{
+  width: 50%;
+  float: left;
+}
+
+.portrait5{
+  width: 50%;
+  float: left;
+}
+
+.portrait6{
+  width: 100%;
+  float: left;
+}
+
+.portrait7{
+  width: 100%;
+  float: left;
+}

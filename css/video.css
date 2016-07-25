@@ -1,0 +1,15 @@
+@import 'stylesheet.css';
+@import 'seite1.css';
+
+.video{
+  width: 70%;
+  display: block;
+  background: white;
+  float: left;
+  margin-top: 15px;
+}
+
+video{
+margin-top: 20%;
+width: 80%;
+}

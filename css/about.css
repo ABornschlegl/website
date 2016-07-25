@@ -1,0 +1,33 @@
+@import 'stylesheet.css';
+@import 'seite1.css';
+
+.foto{
+  width: 70%;
+  display: block;
+  background: white;
+  float: left;
+
+}
+
+.portraits div{
+  display: block;
+  padding: 5%;
+}
+
+.foto img{
+  width: 50%;
+  margin: 18% 0 0 5%;
+}
+
+.mailto_link{
+text-decoration: none;
+color: grey;
+font-family: helvetica;
+display: block;
+margin-left: 5%;
+padding: 3% 0;
+}
+
+.mailto_link:hover{
+  color:pink;
+}

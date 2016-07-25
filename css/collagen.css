@@ -1,0 +1,40 @@
+@import 'stylesheet.css';
+@import 'seite1.css';
+
+.collagen{
+  width: 70%;
+  display: block;
+  background: white;
+  float: left;
+  margin-top: 15px;
+}
+
+.collagen div{
+  display: block;
+  padding: 5%;
+}
+
+.scharf{
+  width: 50%;
+  float: left;
+}
+
+.bitter{
+  width: 50%;
+  float: left;
+}
+
+.süß{
+  width: 50%;
+  float: left;
+}
+
+.sauer{
+  width: 50%;
+  float: left;
+}
+
+.salzig{
+  width: 50%;
+  float: left;
+}
